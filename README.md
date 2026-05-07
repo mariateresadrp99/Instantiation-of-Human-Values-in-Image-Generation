@@ -207,6 +207,7 @@ Default hyperparameters per model:
 |--------|:---:|:---:|:---:|
 | FLUX.2 | 1.5 | 0.6 | 4.0 |
 | SD3.5  | 1.0 | 0.4 | 7.0 |
+| Qwen-Image | 1.5 | 0.4 | 6.0 |
  
 ---
  
