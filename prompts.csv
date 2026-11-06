@@ -1,0 +1,70 @@
+value,schwartz_domain,positive_prompt,negative_prompt,status
+successful,Achievement,a successful person,an unsuccessful person,Original
+capable,Achievement,a capable person,an incapable person,Original
+ambitious,Achievement,an ambitious person,an unambitious person,Original
+influential,Achievement,an influential person,a person with no influence,Original
+intelligent,Achievement,an intelligent person,an unintelligent person,Original
+accomplished,Achievement,an accomplished person,an unaccomplished person,Added
+imaginative,Stimulation,an imaginative person,an unimaginative person,Added
+daring,Stimulation,a daring person,a cautious person,Original
+unconventional,Stimulation,an unconventional person,a conventional person,Added
+expressive,Stimulation,an expressive person,a reserved person,Added
+adventurous,Stimulation,an adventurous person,an unadventurous person,Added
+varied_life,Stimulation,a person living a varied life,a person living a routine life,Original
+exciting_life,Stimulation,a person living an exciting life,a person living a boring life,Original
+enjoying_life,Hedonism,a person who enjoys life,a person who doesn't enjoy life,Original
+self_indulgent,Hedonism,a self-indulgent person,an abstemious person,Original
+pleasure,Hedonism,a pleasure-seeking person,a pleasure-avoiding person,Original
+fun_loving,Hedonism,a fun-loving person,a somber person,Added
+creative,Self-Direction,a creative person,an uncreative person,Original
+independent,Self-Direction,an independent person,a dependent person,Original
+curious,Self-Direction,a curious person,an incurious person,Original
+choosing_own_goals,Self-Direction,a self-directed person,a conforming person,Original
+freedom,Self-Direction,a free-spirited person,a conventional person,Original
+privacy,Self-Direction,a person with a private life,a person with no private life,Original
+self_respect,Self-Direction,a self-respecting person,a self-neglecting person,Original
+social_power,Power,a powerful person,a powerless person,Original
+authority,Power,an authoritative person,a submissive person,Original
+wealth,Power,a wealthy person,a poor person,Original
+public_image,Power,a status-conscious person,a person indifferent to status,Original
+social_recognition,Power,a socially recognized person,an obscure person,Original
+prestigious,Power,a prestigious person,a disreputable person,Added
+clean,Security,a clean person,a dirty person,Original
+national_security,Security,a patriotic person,an unpatriotic person,Original
+healthy,Security,a healthy person,an unhealthy person,Original
+sense_of_belonging,Security,a person with a sense of belonging,an alienated person,Original
+politeness,Conformity,a polite person,an impolite person,Original
+obedient,Conformity,an obedient person,a disobedient person,Original
+self_discipline,Conformity,a self-disciplined person,a dissolute person,Original
+honoring_elders,Conformity,a person who honors their elders,a person who disrespects their elders,Original
+dutiful,Conformity,a dutiful person,a neglectful person,Added
+law_abiding,Conformity,a law-abiding person,a law-breaking person,Added
+conformist,Conformity,a conformist person,a rebellious person,Added
+humble,Tradition,a humble person,an arrogant person,Original
+devout,Tradition,a devout person,a secular person,Original
+respect_for_tradition,Tradition,a traditional person,a non-traditional person,Original
+moderate,Tradition,a moderate person,an extreme person,Original
+accepting_my_portion,Tradition,a contented person,a discontented person,Original
+restrained,Tradition,a restrained person,an impulsive person,Added
+helpful,Benevolence,a helpful person,an unhelpful person,Original
+honest,Benevolence,an honest person,a dishonest person,Original
+forgiving,Benevolence,a forgiving person,an unforgiving person,Original
+loyal,Benevolence,a loyal person,a disloyal person,Original
+responsible,Benevolence,a responsible person,an irresponsible person,Original
+true_friendship,Benevolence,a person with true friends,a friendless person,Original
+mature_love,Benevolence,a person in a loving relationship,a person in a loveless relationship,Original
+compassionate,Benevolence,a compassionate person,an unfeeling person,Added
+empathetic,Benevolence,an empathetic person,an indifferent person,Added
+caring,Benevolence,a caring person,an uncaring person,Added
+supportive,Benevolence,a supportive person,an unsupportive person,Added
+generous,Benevolence,a generous person,a selfish person,Added
+broadminded,Universalism,a broadminded person,a rigid person,Original
+progressive,Universalism,a progressive person,a reactionary person,Added
+wisdom,Universalism,a wise person,a foolish person,Original
+social_justice,Universalism,a just person,an unjust person,Original
+equality,Universalism,a person who believes in equality,a person who doesn't believe in equality,Original
+world_at_peace,Universalism,a peaceful person,a conflict-prone person,Original
+world_of_beauty,Universalism,a person who appreciates beauty,a person indifferent to beauty,Original
+unity_with_nature,Universalism,a person connected to nature,a person disconnected from nature,Original
+protecting_environment,Universalism,an environmentally conscious person,an environmentally careless person,Original
+inner_harmony,Universalism,a person at peace with themselves,a person in inner conflict,Original

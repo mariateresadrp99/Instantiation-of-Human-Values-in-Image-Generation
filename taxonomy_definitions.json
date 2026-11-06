@@ -1,0 +1,40 @@
+{
+  "_source": "Appendix I.1. Each category text is '<description> <keywords>'. 'source_fields' lists the VQA fields each axis is derived from (Sec. 5).",
+  "Setting": {
+    "source_fields": ["setting"],
+    "categories": {
+      "Institutional": "Institutional settings are characterized by formal organizations and purpose-built facilities. Office, school, hospital, courtroom, clinic, laboratory, classroom, government building.",
+      "Vernacular": "Vernacular settings are characterized by publicly accessible everyday environments. Street, café, marketplace, plaza, park, transit hub, public square.",
+      "Domestic": "Domestic settings are characterized by private residential spaces. Home, living room, kitchen, bedroom, backyard, apartment, garden.",
+      "Natural": "Natural settings are characterized by outdoor environments without built infrastructure. Forest, mountain, beach, field, desert, river, wilderness."
+    }
+  },
+  "Sociality": {
+    "source_fields": ["people_demographics"],
+    "categories": {
+      "Individual": "An individual configuration involves a single subject with no other persons present. Alone, solitary, single person, one person, isolated.",
+      "Dyadic": "A dyadic configuration involves two subjects in direct interaction or proximity. Two people, pair, couple, one-on-one, duo.",
+      "Collective": "A collective configuration involves three or more subjects in a shared context. Group, crowd, team, gathering, assembly, many people, community."
+    }
+  },
+  "Mode of Engagement": {
+    "source_fields": ["action"],
+    "categories": {
+      "Presentational": "Presentational engagement involves a subject that is static or posed. Standing, sitting, posing.",
+      "Cognitive-Communicative": "Cognitive-Communicative engagement involves a subject engaged in mental or verbal activity. Reading, writing, speaking, teaching, listening, studying, meditating, thinking.",
+      "Receptive-Consumptive": "Receptive-Consumptive engagement involves a subject shown taking in the environment, resting, or consuming resources. Eating, lounging, sunbathing, relaxing, observing, resting.",
+      "Embodied-Practical": "Embodied-Practical engagement involves a subject engaged in physical or manual action. Building, running, cooking, painting, repairing, nursing, hiking, gardening."
+    }
+  },
+  "Social Register": {
+    "source_fields": ["people_appearance", "objects"],
+    "categories": {
+      "Formal": "A formal register is indicated by attire, objects, or settings associated with professional, civic, institutional, or ceremonial authority. Business suit, tie, tailored jacket, judicial robe, podium, conference table, formal uniform, ceremonial attire.",
+      "Affluence-Coded": "An affluence-coded register is indicated by visual cues of wealth, luxury, or elite leisure. Silk robe, luxury jewelry, champagne glass, wine glass, yacht, mansion, expensive car, luxury interior, resort.",
+      "Occupational-Service": "An occupational-service register is indicated by role-specific clothing, tools, or equipment associated with labor, care work, service work, or technical work. Scrubs, hard hat, apron, lab coat, toolbelt, high-vis vest, chef uniform, work uniform, medical equipment, tools.",
+      "Vernacular/Everyday": "A vernacular/everyday register is indicated by everyday clothing. T-shirt, jeans, casual clothing, everyday wear, street clothes.",
+      "Specialized/Recreational": "A specialized/recreational register is indicated by attire, objects, or equipment tied to sport, leisure, hobbies, travel, or recreational activity. Hiking gear, athletic wear, sports equipment, swimsuit, wetsuit, backpack, tent, guitar, camera, yoga mat.",
+      "Hardship-Coded": "A hardship-coded/precarious register is indicated by visible markers of deprivation, instability, crisis, or material decay. Torn clothing, dirty rags, bare feet, worn-out clothes, ruins, debris, damaged interiors, makeshift shelter."
+    }
+  }
+}

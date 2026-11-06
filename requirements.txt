@@ -1,0 +1,12 @@
+torch>=2.3
+diffusers>=0.42
+transformers>=4.56
+accelerate
+sentence-transformers>=5.0
+scikit-learn
+numpy
+pandas
+Pillow
+openai
+replicate
+requests
