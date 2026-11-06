@@ -1,6 +1,6 @@
 # Instantiation of Human Values in Image Generation
 
-![Evaluation Methodology](./meth_framework.png)
+![Evaluation Methodology](./overview_framework.png)
 
 Text-to-Image (T2I) models are increasingly embedded in everyday visual culture, yet little is known about how they translate abstract human values into visual scenes. We introduce a framework, grounded in Schwartz's theory of basic human values, for studying *value instantiation*: the process by which ideals such as *success*, *care*, or *freedom* are visually realized. Using person-centered prompts for positive and negative value items, we generate 28,000 images across four state-of-the-art T2I models. We identify **visual prototypes** (recurring combinations of subjects, appearances, actions and settings), use them to quantify how narrowly models instantiate values, and map them onto a taxonomy of **social configurations** spanning setting, sociality, mode of engagement and social register. Finally, we show that the structural gaps can be turned into **steering signals** that broaden outputs without modifying the original prompt.
 
